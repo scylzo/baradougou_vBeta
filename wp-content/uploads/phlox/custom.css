@@ -83,3 +83,6 @@
 /* site-content-background-color 
 =========================*/
 .aux-top-header, .aux-sticky-footer .page-title-section, .aux-sticky-footer #main, #inner-body{background-color:#ffffff;}
+/* footer-main-menu-typography 
+=========================*/
+.aux-site-footer .footer-menu li > a{ font-size:1px; } 
